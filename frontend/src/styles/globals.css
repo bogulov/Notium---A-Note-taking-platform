@@ -1,0 +1,92 @@
+@import './variables.css';
+@import "tailwindcss";
+@config "../../tailwind.config.js";
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-text-primary font-sans;
+    font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-normal);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-semibold;
+    line-height: var(--line-height-tight);
+  }
+
+  h1 {
+    font-size: var(--font-size-3xl);
+  }
+
+  h2 {
+    font-size: var(--font-size-2xl);
+  }
+
+  h3 {
+    font-size: var(--font-size-xl);
+  }
+}
+
+@layer components {
+  /* Focus visible for keyboard users */
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary rounded;
+  }
+
+  /* Remove outline for mouse users */
+  *:focus:not(:focus-visible) {
+    @apply outline-hidden;
+  }
+}
+
+@layer utilities {
+  .text-xs {
+    font-size: var(--font-size-xs);
+  }
+
+  .text-sm {
+    font-size: var(--font-size-sm);
+  }
+
+  .text-base {
+    font-size: var(--font-size-base);
+  }
+
+  .text-lg {
+    font-size: var(--font-size-lg);
+  }
+
+  .text-xl {
+    font-size: var(--font-size-xl);
+  }
+
+  .text-2xl {
+    font-size: var(--font-size-2xl);
+  }
+
+  .text-3xl {
+    font-size: var(--font-size-3xl);
+  }
+
+  .leading-tight {
+    line-height: var(--line-height-tight);
+  }
+
+  .leading-normal {
+    line-height: var(--line-height-normal);
+  }
+
+  .leading-relaxed {
+    line-height: var(--line-height-relaxed);
+  }
+}
